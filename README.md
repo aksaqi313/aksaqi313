@@ -19,17 +19,4 @@
   </picture>
 
 </div>
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/azharkhan313/">
-    LinkedIn
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:aksaqi313@gmail.com">
-    Email
-  </a>
-
-</div>
+ 
